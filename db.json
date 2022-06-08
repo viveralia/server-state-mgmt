@@ -1,0 +1,52 @@
+{
+  "drinks": [
+    {
+      "id": "qVe7oFa",
+      "name": "Shot de mezcal artesanal gluten free",
+      "price": {
+        "currency": "MXN",
+        "amount": 80
+      }
+    },
+    {
+      "id": "qVe7oFb",
+      "name": "Shot de mezcal artesanal gluten free 2",
+      "price": {
+        "currency": "MXN",
+        "amount": 80
+      }
+    },
+    {
+      "name": "Bacardi",
+      "price": {
+        "amount": "15000",
+        "currency": "COP"
+      },
+      "id": "ryH15hz"
+    },
+    {
+      "name": "Rancho escondido",
+      "price": {
+        "amount": "100",
+        "currency": "MXN"
+      },
+      "id": "O9XJPRp"
+    },
+    {
+      "name": "Mojito",
+      "price": {
+        "amount": "125",
+        "currency": "MXN"
+      },
+      "id": "IXxr_PO"
+    },
+    {
+      "name": "Tequila",
+      "price": {
+        "amount": "150",
+        "currency": "MXN"
+      },
+      "id": "1AUvYmp"
+    }
+  ]
+}
